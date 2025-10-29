@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ARADES PRA",
+  "description": "An advanced, AI-powered presentation application similar to PowerPoint, allowing users to create, edit, present, and export slide decks. Features include slide content generation with Gemini, PDF and JSON export, and a modern, intuitive interface.",
+  "requestFramePermissions": []
+}
